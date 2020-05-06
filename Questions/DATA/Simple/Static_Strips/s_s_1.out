@@ -1,0 +1,10 @@
+Scene: Simple Scene
+Width x Height: 5000 x 5000
+Partitioning scheme: 1
+Number of Processes: 1
+Dynamic block size: 0 x 0
+Cycle Size: 0
+Total Computation Time: 175.658 seconds
+Total Communication Time: 1.00136e-05 seconds
+C-to-C Ratio: 5.70063e-08
+Execution Time: 175.658 seconds

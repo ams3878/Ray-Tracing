@@ -1,0 +1,12 @@
+Scene: Complex Scene
+Width x Height: 5000 x 5000
+Partitioning scheme: 16
+Number of Processes: 16
+Dynamic block size: 0 x 0
+Cycle Size: 1
+Total Computation Time: 6097.15 seconds
+Total Communication Time: 401.449 seconds
+C-to-C Ratio: 0.0658421
+Execution Time: 779.632 seconds
+
+Image will be save to: renders/rt_5000x5000_cyclesVertical_1_p16_050417-233519.png

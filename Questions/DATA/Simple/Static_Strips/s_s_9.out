@@ -1,0 +1,12 @@
+Scene: Simple Scene
+Width x Height: 5000 x 5000
+Partitioning scheme: 1
+Number of Processes: 9
+Dynamic block size: 0 x 0
+Cycle Size: 0
+Total Computation Time: 191.177 seconds
+Total Communication Time: 44.8185 seconds
+C-to-C Ratio: 0.234435
+Execution Time: 49.4992 seconds
+
+Image will be save to: renders/rt_5000x5000_stripsHorizontal_p9_050417-223408.png
